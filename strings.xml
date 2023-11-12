@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prototipo_proyecto</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_home">Home</string>
+    <string name="NewAccount_Header">Crear cuenta</string>
+    <string name="NewAccount_Email">Email</string>
+    <string name="NewAccount_Password">Contraseña</string>
+    <string name="Accept_TermsConditions">Acepto términos y condiciones</string>
+    <string name="Login">Inicia Sesión</string>
+    <string name="haveAccount">¿Tienes cuenta?</string>
+    <string name="Create">Crear cuenta</string>
+    <string name="AccountsPreview">Tus cuentas</string>
+    <string name="HomeGreeting">Bienvenido</string>
+</resources>
